@@ -1,0 +1,44 @@
+[
+    {
+        "Campaigns":"A", 
+        "Clicks":712, 
+        "Cost":"USD 4272", 
+        "Conversions":8,
+        "Revenue":"USD 16568"
+    },
+    {
+        "Campaigns":"B", 
+        "Clicks":3961, 
+        "Cost":"USD 27331", 
+        "Conversions":115,
+        "Revenue":"USD 36202"
+    },
+    {
+        "Campaigns":"C", 
+        "Clicks":2, 
+        "Cost":"USD 44272", 
+        "Conversions":18,
+        "Revenue":"USD 1668"
+    },
+    {
+        "Campaigns":"D", 
+        "Clicks":71, 
+        "Cost":"USD 472", 
+        "Conversions":80,
+        "Revenue":"USD 6568"
+    },
+    {
+        "Campaigns":"E", 
+        "Clicks":72, 
+        "Cost":"USD 4272", 
+        "Conversions":89,
+        "Revenue":"USD 568"
+    },
+    {
+        "Campaigns":"F", 
+        "Clicks":32, 
+        "Cost":"USD 422", 
+        "Conversions":85,
+        "Revenue":"USD 168"
+    }
+]
